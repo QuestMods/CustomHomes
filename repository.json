@@ -6,7 +6,12 @@
       "author": "DudePerfect",
       "build": 1,
       "support-url": "https:/discord.gg/test",
-      "requires-settings-patch": "true",
+      "tags": [
+        "requires-settings-patch",
+        "music",
+        "3d",
+        "nsfw"
+      ],
       "replaces-package": "com.oculus.environment.prod.rifthome",
       "download-url": "https://raw.githubusercontent.com/Bluscream/CustomHomes/master/classic/simpsons.apk",
       "preview-video": "https://cdn.discordapp.com/attachments/667577367836884992/668624299401412648/com.oculus.vrshell-20200120-020939.mp4",
